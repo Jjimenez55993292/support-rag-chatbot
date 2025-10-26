@@ -2,6 +2,13 @@
 
 **Supportly** is an AI‑powered, document‑aware assistant for healthcare and customer support workflows. Users upload PDFs, DOCX, TXT, or CSV files and then chat naturally; the system retrieves the most relevant passages and generates clear, empathetic answers grounded in those sources. Built with **Python + Streamlit**, **LangChain**, **OpenAI GPT**, and **FAISS** vector search, it demonstrates a practical Retrieval‑Augmented Generation (RAG) pipeline with intent handling and a clean web UI.
 
+[Read Full Report](https://github.com/Jjimenez55993292/support-rag-chatbot/blob/main/Report.pdf)
+
+
+## Demo Screenshots
+<img width="934" height="395" alt="image" src="https://github.com/user-attachments/assets/09a028c8-04b2-42c1-9839-954eee5f7c05" />
+<img width="975" height="461" alt="image" src="https://github.com/user-attachments/assets/f1329954-f906-4219-8b3a-61aa53d25bc6" />
+
 ---
 
 ## Table of Contents
